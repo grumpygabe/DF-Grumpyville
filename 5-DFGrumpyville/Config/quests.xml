@@ -1,0 +1,81 @@
+<configs>
+  <!-- these quests need clear areas, and there aint much of that in the city -->
+  <set xpath="/quests/quest/objective[@type='RandomGotoNPC']/property[@name='distance']/@value">100-2000</set>
+  <set xpath="/quests/quest_list[@id='trader_quests_gc']">
+
+      <!-- Tier 1 -->
+      <quest id="tier1_clear"/>
+      <quest id="tier1_fetch"/>
+
+      <quest id="challenge_nurseyoubacktohealthT1"/>
+      <quest id="challenge_starvingtouristsT1"/>
+      <quest id="challenge_ladykillerT1"/>
+      <quest id="challenge_maneaterT1"/>
+      <quest id="challenge_cableguysnevermadeitT1"/>
+
+      <!-- Tier 2 -->
+      <quest id="tier2_clear"/>
+      <quest id="tier2_fetch"/>
+      <quest id="tier2_restore_power"/>
+
+      <quest id="challenge_nurseyoubacktohealthT2"/>
+      <quest id="challenge_starvingtouristsT2"/>
+      <quest id="challenge_ladykillerT2"/>
+      <quest id="challenge_maneaterT2"/>
+      <quest id="challenge_cableguysnevermadeitT2"/> <!--
+      <quest id="challenge_silenceofthelambsT2"/>
+      <quest id="challenge_dogdaysareoverT2"/>
+      <quest id="challenge_imalumberjackandimokayT2"/> -->
+
+      <!-- Tier 3 -->
+      <quest id="tier3_clear"/>
+      <quest id="tier3_fetch"/>
+      <quest id="tier3_restore_power"/>
+
+      <quest id="challenge_nurseyoubacktohealthT3"/>
+      <quest id="challenge_starvingtouristsT3"/>
+      <quest id="challenge_ladykillerT3"/>
+      <quest id="challenge_maneaterT3"/>
+      <quest id="challenge_cableguysnevermadeitT3"/> 	<!--
+      <quest id="challenge_silenceofthelambsT3"/>
+      <quest id="challenge_dogdaysareoverT3"/>
+      <quest id="challenge_imalumberjackandimokayT3"/>
+      <quest id="challenge_itsybitsyspiderT3"/>
+      <quest id="challenge_yournothingspecialT3"/>
+      <quest id="challenge_dishonorabledischargeT3"/> -->
+
+      <!-- Tier 4 -->
+      <quest id="tier4_clear"/>
+      <quest id="tier4_fetch"/>
+      <quest id="tier4_restore_power"/>
+
+      <quest id="challenge_nurseyoubacktohealthT4"/>
+      <quest id="challenge_starvingtouristsT4"/>
+      <quest id="challenge_ladykillerT4"/>
+      <quest id="challenge_maneaterT4"/>
+      <quest id="challenge_cableguysnevermadeitT4"/> <!--
+      <quest id="challenge_silenceofthelambsT4"/>
+      <quest id="challenge_dogdaysareoverT4"/>
+      <quest id="challenge_imalumberjackandimokayT4"/>
+      <quest id="challenge_itsybitsyspiderT4"/>
+      <quest id="challenge_yournothingspecialT4"/>
+      <quest id="challenge_dishonorabledischargeT4"/> -->
+
+      <!-- Tier 5 -->
+      <quest id="tier5_clear"/>
+      <quest id="tier5_fetch"/>
+      <quest id="challenge_starvingtouristsT5"/>
+      <quest id="challenge_nurseyoubacktohealthT5"/>
+      <quest id="challenge_ladykillerT5"/>
+      <quest id="challenge_maneaterT5"/>
+      <quest id="challenge_cableguysnevermadeitT5"/> <!--
+      <quest id="challenge_silenceofthelambsT5"/>
+      <quest id="challenge_dogdaysareoverT5"/>
+      <quest id="challenge_imalumberjackandimokayT5"/>
+      <quest id="challenge_itsybitsyspiderT5"/>
+      <quest id="challenge_yournothingspecialT5"/>
+      <quest id="challenge_dishonorabledischargeT5"/> -->
+
+  </set>
+
+</configs>

@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<xml>
+	<ModInfo>
+		<Name value="Grumpyville" />
+		<Description value="An additional map made for Darkness Falls" />
+		<Author value="grumpybeard" />
+		<Version value="1.0" />
+		<Website value="" />
+	</ModInfo>
+</xml>
