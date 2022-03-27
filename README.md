@@ -3,6 +3,8 @@ A big city map for Darkness Falls.
 
 Definitely inspired by JaWoodle's MegaCity series, although it is generated in a very different way (and features one much larger city).
 
+⚠️This mod includes an override to quests.xml so that the white river scout is able to give clear & fetch quests instead of the normal kill quests (which don't work with the large city, for whatever reason).  This *will* stay in effect for other maps played if you have this mod installed - which shouldn't be game-breaking, but is worth knowing about. ⚠️
+
 # Requirements
 [Darkness Falls](https://dev.azure.com/KhaineUK/_git/DarknessFallsA20).  Obviously.
 
