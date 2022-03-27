@@ -22,6 +22,7 @@ There are also a few custom city traders I modified to fit better with the downt
 Problems?
 - The scout quest thing.
 - It might blow up your computer.  Seriously, big cities do this.  Good luck.
+- If you look at the log, you'll see LOTS of "WRN path node otherHeight bad" messages.  This isn't gamebreaking, but they're very frequent in this map (it's quite dense) and might end up making your logsize pretty large.  It's worth keeping an eye on.
   
 # Installation
 It's easy.  Drop the 5-DFGrumpyville mod in your mods folder, then choose "DFalls-Grumpyville-6k" when picking a new world.
